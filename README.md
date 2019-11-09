@@ -1,2 +1,2 @@
 # bash_scripts4fun
-Just fun!
+Just 4 fun!
