@@ -1,4 +1,6 @@
 #!/bin/bash
+#Written by  aaii 
+#:/
 read -p "Tell me the time you want wake up:(Example 13:23) " TM
 echo "$TM"
 TIME=$(date "+%T"| cut -d ":" -f 1,2 )
